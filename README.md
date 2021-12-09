@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GraurAI
+- 👀 I’m interested in learning to code.
+- 🌱 I’m currently learning HTML, Phyton and CSS.
+- 💞️ I’m looking to collaborate on any projects that may come up.
+- 📫 How to reach me: 04alexgraur@gmail.com.
